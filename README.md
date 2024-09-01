@@ -11,5 +11,9 @@ Kopano Botsane       202201138
 The project is aimed at adding two bit binary numbers and presenting a three bit outcome 
 using a full adder constructed from two half adders.
 
+
+Link to youtube channel:
 https://youtu.be/MRzIDtV4Qko?si=GO7lbaKwtsyU01ex
+
+Link to report:
 
