@@ -3,7 +3,7 @@
 #### Thembizile Mothoalo  202201984
 #### Reekelitsoe Lefosa   202201973 
 #### Ts'epo Hlabanyane    202201286
-#### Katleho Qhobelo      202101185
+#### Katleho Qhobela     202101185
 #### Khotso Mohloai       202100154
 #### Kopano Botsane       202201138
 
