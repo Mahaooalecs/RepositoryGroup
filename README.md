@@ -7,14 +7,14 @@ Katleho Qhobelo      202101185
 Khotso Mohloai       202100154
 Kopano Botsane       202201138
 
-####Project Overview
+#### Project Overview
 The project is aimed at adding two bit binary numbers and presenting a three bit outcome 
 using a full adder constructed from two half adders.
 
 
-Link to youtube channel:
+#### Link to youtube channel:
 https://youtu.be/MRzIDtV4Qko?si=GO7lbaKwtsyU01ex
 
-Link to report:
+#### Link to report:
 https://github.com/Mahaooalecs/RepositoryGroup/blob/main/CS3441%20Assignment%20Report.pptx
 
